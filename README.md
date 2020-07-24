@@ -1,8 +1,5 @@
 # HelloPlatformer
-Central repository linking to all the done, and to be done HelloPlatformer prototypes.
-
-# About
-HelloPlatformer is a collection of the same prototype built using different game engines/frameworks.
+HelloPlatformer is a collection of the same prototype built using different game engines/frameworks. The name HelloPlatformer is a play on the traditional [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program. This central repository links to all the done, and to be done HelloPlatformer prototypes.
 
 # List
 | Engine/Framework                                     | Prototype State     | Link                                                                                   |
